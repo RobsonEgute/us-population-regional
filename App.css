@@ -1,0 +1,10 @@
+.svg-area {
+    background-color: rgb(153, 150, 150);
+}
+.rect-bar {
+    fill: rgb(15, 15, 134);
+    padding-left: 10px;
+}
+.rect-bar:hover {
+fill:black
+}
